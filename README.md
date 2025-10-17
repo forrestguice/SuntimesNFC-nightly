@@ -1,7 +1,6 @@
 # SuntimesNFC-nightly
 
-An F-Droid compatible repository containing SuntimesNFC "nightly" builds:
-* https://forrestguice.github.io/SuntimesNFC-nightly/fdroid/repo/
+This is an app repository for nightly versions.
+You can use it with the [F-Droid](https://f-droid.org/) Android app.
 
-Note: The "nightly" builds are not intended for regular use. Use them only to
-test or debug specific issues.
+[![https://raw.githubusercontent.com/forrestguice/SuntimesNFC-nightly/master/fdroid/repo](https://raw.githubusercontent.com/forrestguice/SuntimesNFC-nightly/master/fdroid/repo/icons/icon.png)](https://fdroid.link/#https://raw.githubusercontent.com/forrestguice/SuntimesNFC-nightly/master/fdroid/repo)
